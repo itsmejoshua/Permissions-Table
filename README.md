@@ -5,8 +5,7 @@ https://spatie.be/docs/laravel-permission/v4/advanced-usage/uuid
 # Problems
 Outstanding tasks to complete the migration
 
-~~AG-1~~ _User UUID Support Completed_
-https://agedcare.atlassian.net/browse/HC-75 <br/>
+[~~AG-1~~](https://agedcare.atlassian.net/browse/AG-1) _User UUID Support Completed_ <br/>
 [HC-75](https://agedcare.atlassian.net/browse/HC-75) Role UUID Support<br/>
 [HC-76](https://agedcare.atlassian.net/browse/HC-76) Role to Organisation Link
 
